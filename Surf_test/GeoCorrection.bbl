@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{rs5094488}
+Guido Lemoine and Martina Giovalli.
+\newblock Geo-correction of high-resolution imagery using fast template
+  matching on a gpu in emergency mapping contexts.
+\newblock {\em Remote Sensing}, 5(9):4488--4502, 2013.
+
+\bibitem{Setkov:2013:CIF:2466715.2466731}
+Aleksandr Setkov, Mich\`{e}le Gouiff\`{e}s, and Christian Jacquemin.
+\newblock Color invariant feature matching for image geometric correction.
+\newblock In {\em Proceedings of the 6th International Conference on Computer
+  Vision / Computer Graphics Collaboration Techniques and Applications}, MIRAGE
+  '13, pages 7:1--7:8, New York, NY, USA, 2013. ACM.
+
+\end{thebibliography}

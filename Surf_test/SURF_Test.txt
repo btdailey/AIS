@@ -1,0 +1,15 @@
+﻿SIFT/SURF:
+
+	Find Keypoints in images: Based on Intensity?
+	Calculates number of matches
+
+RANSAC: RAndom Sample Consensus
+	
+	Finds homography between samples
+		Homography?? Set of directions to convert one image to another?
+		Basically a shift to make one set of keypoints line up
+
+	Does many sets to find best homography that has most inliers (number of points that line up)
+
+	Can use this to off set corrections and get Lat and Lon?
+
